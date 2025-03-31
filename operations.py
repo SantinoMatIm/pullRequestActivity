@@ -7,5 +7,4 @@ a+b
 # Display the subtraction
 a-b
 
-# Display multiplication
 
